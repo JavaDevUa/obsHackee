@@ -1,0 +1,7 @@
+1) main.ts is core part of obsidian plugin. I can go and install hello-world obisidan plugin for a lot of stuff, then replace 'main.ts'. It will create command 'Ctrl+P' 'zuza editor'
+2) It all requires special setup of files
+3) It will launch 'start.sh' script
+4) You will put number of code example
+5) It will copy files to specil directory
+6) Then I can go and manually launch it (if one of copied files is head.Main.java)
+
